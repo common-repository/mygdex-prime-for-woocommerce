@@ -1,0 +1,7 @@
+[v-cloak] {
+  display: none;
+}
+
+.post-type-shop_order .wp-list-table .column-gdex_prime_shipment_order_id .error {
+  color: crimson;
+}
